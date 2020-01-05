@@ -1,7 +1,7 @@
 # Python-EPW
 This python notebook is used for this article :
 
-https://habib-mezghani.github.io/MyWEBSITE/project/how-to-consult-epw-file-with-python/
+https://habib-mezghani.github.io/MyWEBSITE1/project/how-to-consult-epw-file-with-python/
 
 ## Installation of relevant package
 
